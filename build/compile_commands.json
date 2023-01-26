@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/C++Visible Projects/Differential Equation Calculator/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\Diff_eq_calc.dir\\Diff_eq_calc.cpp.obj -c \"C:\\Users\\zdavi\\OneDrive\\Documents\\C++Visible Projects\\Differential Equation Calculator\\Diff_eq_calc.cpp\"",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\C++Visible Projects\\Differential Equation Calculator\\Diff_eq_calc.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/C++Visible Projects/Differential Equation Calculator/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\Diff_eq_calc.dir\\Folhdeccic.cpp.obj -c \"C:\\Users\\zdavi\\OneDrive\\Documents\\C++Visible Projects\\Differential Equation Calculator\\Folhdeccic.cpp\"",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\C++Visible Projects\\Differential Equation Calculator\\Folhdeccic.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/C++Visible Projects/Differential Equation Calculator/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\Diff_eq_calc.dir\\Lhdeccic.cpp.obj -c \"C:\\Users\\zdavi\\OneDrive\\Documents\\C++Visible Projects\\Differential Equation Calculator\\Lhdeccic.cpp\"",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\C++Visible Projects\\Differential Equation Calculator\\Lhdeccic.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/C++Visible Projects/Differential Equation Calculator/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\Diff_eq_calc.dir\\Signal.cpp.obj -c \"C:\\Users\\zdavi\\OneDrive\\Documents\\C++Visible Projects\\Differential Equation Calculator\\Signal.cpp\"",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\C++Visible Projects\\Differential Equation Calculator\\Signal.cpp"
+}
+]

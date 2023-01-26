@@ -1,0 +1,3 @@
+C:/Users/zdavi/OneDrive/Documents/C++Visible Projects/Differential Equation Calculator/build/CMakeFiles/Diff_eq_calc.dir
+C:/Users/zdavi/OneDrive/Documents/C++Visible Projects/Differential Equation Calculator/build/CMakeFiles/edit_cache.dir
+C:/Users/zdavi/OneDrive/Documents/C++Visible Projects/Differential Equation Calculator/build/CMakeFiles/rebuild_cache.dir
